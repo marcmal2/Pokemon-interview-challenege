@@ -1,0 +1,11 @@
+#titles {
+    font-family: Georgia, serif;
+    font-size: 5em;
+    color: #000000;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows:0;
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    text-align: center;
+    }
